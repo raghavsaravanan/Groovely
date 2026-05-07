@@ -1,0 +1,330 @@
+{
+  "1fb7b176b40f4a62937cdd4c10f879c3": {
+    "routine_id": "1fb7b176b40f4a62937cdd4c10f879c3",
+    "title": "Test",
+    "video_path": "actual\\1fb7b176b40f4a62937cdd4c10f879c3\\actual.mp4",
+    "audio_path": "actual\\1fb7b176b40f4a62937cdd4c10f879c3\\audio.mp3",
+    "created_at": "2025-11-10T18:06:59.895043Z"
+  },
+  "0f36ef1ced204e7087dc50fb1c7d18d4": {
+    "routine_id": "0f36ef1ced204e7087dc50fb1c7d18d4",
+    "title": "Testicle",
+    "video_path": "actual\\0f36ef1ced204e7087dc50fb1c7d18d4\\actual.mp4",
+    "audio_path": "actual\\0f36ef1ced204e7087dc50fb1c7d18d4\\audio.mp3",
+    "created_at": "2025-11-10T18:46:17.910604Z"
+  },
+  "07f6791b8d334d55bedff7160a4d8570": {
+    "routine_id": "07f6791b8d334d55bedff7160a4d8570",
+    "title": "Thankful",
+    "video_path": "actual\\07f6791b8d334d55bedff7160a4d8570\\actual.mp4",
+    "audio_path": "actual\\07f6791b8d334d55bedff7160a4d8570\\audio.mp3",
+    "created_at": "2025-11-11T00:13:56.827727Z"
+  },
+  "d32001ac7bca42ceb9009704fec3a873": {
+    "routine_id": "d32001ac7bca42ceb9009704fec3a873",
+    "title": "Thank YOU",
+    "video_path": "actual\\d32001ac7bca42ceb9009704fec3a873\\actual.mp4",
+    "audio_path": "actual\\d32001ac7bca42ceb9009704fec3a873\\audio.mp3",
+    "created_at": "2025-11-12T17:17:46.944936Z"
+  },
+  "5da4079c7f8f49548199ce04d16ba9d7": {
+    "routine_id": "5da4079c7f8f49548199ce04d16ba9d7",
+    "title": "Untitled Routine",
+    "video_path": "actual\\5da4079c7f8f49548199ce04d16ba9d7\\actual.mp4",
+    "audio_path": "actual\\5da4079c7f8f49548199ce04d16ba9d7\\audio.mp3",
+    "created_at": "2025-11-12T18:32:06.107005Z"
+  },
+  "54c8dec976ef4baeae210d311d18efca": {
+    "routine_id": "54c8dec976ef4baeae210d311d18efca",
+    "title": "Sample Routine",
+    "video_path": "storage/actual/54c8dec976ef4baeae210d311d18efca/actual.mp4",
+    "audio_path": "storage/actual/54c8dec976ef4baeae210d311d18efca/audio.mp3",
+    "created_at": "2025-11-16T02:03:19.906925Z"
+  },
+  "d575b1e3fa1d402495b0a4df59a594a9": {
+    "routine_id": "d575b1e3fa1d402495b0a4df59a594a9",
+    "title": "Untitled Routine",
+    "video_path": "storage/actual/d575b1e3fa1d402495b0a4df59a594a9/actual.mp4",
+    "audio_path": "storage/actual/d575b1e3fa1d402495b0a4df59a594a9/audio.mp3",
+    "created_at": "2025-11-16T16:59:33.112706Z"
+  },
+  "54b9adc30f2c4adeb43ca7f408c35e1b": {
+    "routine_id": "54b9adc30f2c4adeb43ca7f408c35e1b",
+    "title": "Testing",
+    "video_path": "storage/actual/54b9adc30f2c4adeb43ca7f408c35e1b/actual.mp4",
+    "audio_path": "storage/actual/54b9adc30f2c4adeb43ca7f408c35e1b/audio.mp3",
+    "created_at": "2025-11-16T17:10:25.906057Z"
+  },
+  "c1b47c766ac34aed8e6f0612603841ae": {
+    "routine_id": "c1b47c766ac34aed8e6f0612603841ae",
+    "title": "Untitled Routine",
+    "video_path": "storage/actual/c1b47c766ac34aed8e6f0612603841ae/actual.mp4",
+    "audio_path": "storage/actual/c1b47c766ac34aed8e6f0612603841ae/audio.mp3",
+    "created_at": "2025-11-16T17:21:07.369834Z"
+  },
+  "bf3ba75610c540d68edf0382630cbe28": {
+    "routine_id": "bf3ba75610c540d68edf0382630cbe28",
+    "title": "Untitled Routine",
+    "video_path": "actual\\bf3ba75610c540d68edf0382630cbe28\\actual.mp4",
+    "audio_path": "actual\\bf3ba75610c540d68edf0382630cbe28\\audio.mp3",
+    "created_at": "2025-11-18T19:14:20.329041Z"
+  },
+  "bbab0a3091db4e0da28cffe300c06bd7": {
+    "routine_id": "bbab0a3091db4e0da28cffe300c06bd7",
+    "title": "Thank You",
+    "video_path": "actual\\bbab0a3091db4e0da28cffe300c06bd7\\actual.mp4",
+    "audio_path": "actual\\bbab0a3091db4e0da28cffe300c06bd7\\audio.mp3",
+    "created_at": "2025-11-18T19:30:00.866683Z"
+  },
+  "8488d4b3ed9d4b65b648abe8649f7cb7": {
+    "routine_id": "8488d4b3ed9d4b65b648abe8649f7cb7",
+    "title": "Untitled Routine",
+    "video_path": "actual\\8488d4b3ed9d4b65b648abe8649f7cb7\\actual.mp4",
+    "audio_path": "actual\\8488d4b3ed9d4b65b648abe8649f7cb7\\audio.mp3",
+    "created_at": "2025-11-18T19:45:09.649573Z"
+  },
+  "d1ef3eb6f2b6449483e26e508e2be0c1": {
+    "routine_id": "d1ef3eb6f2b6449483e26e508e2be0c1",
+    "title": "Test",
+    "video_path": "storage/actual/d1ef3eb6f2b6449483e26e508e2be0c1/actual.mp4",
+    "audio_path": "storage/actual/d1ef3eb6f2b6449483e26e508e2be0c1/audio.mp3",
+    "created_at": "2025-11-18T06:28:50.139467Z"
+  },
+  "b8cb3815bf38488796ec9854b1945325": {
+    "routine_id": "b8cb3815bf38488796ec9854b1945325",
+    "title": "A",
+    "video_path": "storage/actual/b8cb3815bf38488796ec9854b1945325/actual.mp4",
+    "audio_path": "storage/actual/b8cb3815bf38488796ec9854b1945325/audio.mp3",
+    "created_at": "2025-11-20T03:02:55.049510Z"
+  },
+  "bc7b6023d0ab4bd6a7b9113fc1886a40": {
+    "routine_id": "bc7b6023d0ab4bd6a7b9113fc1886a40",
+    "title": "assdfasdf",
+    "video_path": "actual\\bc7b6023d0ab4bd6a7b9113fc1886a40\\actual.mp4",
+    "audio_path": "actual\\bc7b6023d0ab4bd6a7b9113fc1886a40\\audio.mp3",
+    "created_at": "2025-11-22T02:54:51.545810Z",
+    "video_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/videos/routines/bc7b6023d0ab4bd6a7b9113fc1886a40/video.mp4",
+    "audio_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/audio/routines/bc7b6023d0ab4bd6a7b9113fc1886a40/audio.mp3"
+  },
+  "2272328bd3fd4b2babcc64e12d29a06d": {
+    "routine_id": "2272328bd3fd4b2babcc64e12d29a06d",
+    "title": "zdsfasd",
+    "video_path": "actual\\2272328bd3fd4b2babcc64e12d29a06d\\actual.mp4",
+    "audio_path": "actual\\2272328bd3fd4b2babcc64e12d29a06d\\audio.mp3",
+    "created_at": "2025-11-22T02:59:43.276202Z",
+    "video_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/videos/routines/2272328bd3fd4b2babcc64e12d29a06d/video.mp4",
+    "audio_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/audio/routines/2272328bd3fd4b2babcc64e12d29a06d/audio.mp3"
+  },
+  "c4cbbb39086246f18da7badccaccef73": {
+    "routine_id": "c4cbbb39086246f18da7badccaccef73",
+    "title": "asdfasdf",
+    "video_path": "actual\\c4cbbb39086246f18da7badccaccef73\\actual.mp4",
+    "audio_path": "actual\\c4cbbb39086246f18da7badccaccef73\\audio.mp3",
+    "created_at": "2025-11-22T03:12:40.839523Z",
+    "video_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/videos/routines/c4cbbb39086246f18da7badccaccef73/video.mp4",
+    "audio_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/audio/routines/c4cbbb39086246f18da7badccaccef73/audio.mp3"
+  },
+  "70745bc03df04ad3ba54011e8fd7612b": {
+    "routine_id": "70745bc03df04ad3ba54011e8fd7612b",
+    "title": "xxczv",
+    "video_path": "actual\\70745bc03df04ad3ba54011e8fd7612b\\actual.mp4",
+    "audio_path": "actual\\70745bc03df04ad3ba54011e8fd7612b\\audio.mp3",
+    "created_at": "2025-11-22T03:20:42.398130Z",
+    "video_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/videos/routines/70745bc03df04ad3ba54011e8fd7612b/video.mp4",
+    "audio_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/audio/routines/70745bc03df04ad3ba54011e8fd7612b/audio.mp3"
+  },
+  "0ba28e74def44437a619740c38fcac54": {
+    "routine_id": "0ba28e74def44437a619740c38fcac54",
+    "title": "asdfsd",
+    "video_path": "actual\\0ba28e74def44437a619740c38fcac54\\actual.mp4",
+    "audio_path": "actual\\0ba28e74def44437a619740c38fcac54\\audio.mp3",
+    "created_at": "2025-11-22T03:25:28.016048Z"
+  },
+  "51a0a59dddc04a599b0eadccfcef0c44": {
+    "routine_id": "51a0a59dddc04a599b0eadccfcef0c44",
+    "title": "asdfdsf",
+    "video_path": "actual\\51a0a59dddc04a599b0eadccfcef0c44\\actual.mp4",
+    "audio_path": "actual\\51a0a59dddc04a599b0eadccfcef0c44\\audio.mp3",
+    "created_at": "2025-11-22T03:31:12.489672Z",
+    "video_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/videos/routines/51a0a59dddc04a599b0eadccfcef0c44/video.mp4",
+    "audio_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/audio/routines/51a0a59dddc04a599b0eadccfcef0c44/audio.mp3"
+  },
+  "2247c9d8b0b84fc69c9551bf7a8debd7": {
+    "routine_id": "2247c9d8b0b84fc69c9551bf7a8debd7",
+    "title": "ZFsdfasdf",
+    "video_path": "actual\\2247c9d8b0b84fc69c9551bf7a8debd7\\actual.mp4",
+    "audio_path": "actual\\2247c9d8b0b84fc69c9551bf7a8debd7\\audio.mp3",
+    "created_at": "2025-11-22T03:33:08.556577Z",
+    "video_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/videos/routines/2247c9d8b0b84fc69c9551bf7a8debd7/video.mp4",
+    "audio_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/audio/routines/2247c9d8b0b84fc69c9551bf7a8debd7/audio.mp3"
+  },
+  "7e79fab5b1514aafbc544373eb98b19d": {
+    "routine_id": "7e79fab5b1514aafbc544373eb98b19d",
+    "title": "kjbk",
+    "video_path": "actual\\7e79fab5b1514aafbc544373eb98b19d\\actual.mp4",
+    "audio_path": "actual\\7e79fab5b1514aafbc544373eb98b19d\\audio.mp3",
+    "created_at": "2025-11-22T03:40:54.040121Z"
+  },
+  "9d8097bcaeac43b780662d03d5001b8c": {
+    "routine_id": "9d8097bcaeac43b780662d03d5001b8c",
+    "title": "Supabase test",
+    "video_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/videos/routines/9d8097bcaeac43b780662d03d5001b8c/video.mp4",
+    "audio_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/audio/routines/9d8097bcaeac43b780662d03d5001b8c/audio.mp3",
+    "created_at": "2025-11-22T18:52:51.632985Z"
+  },
+  "d85a8e957d68497890cc292e41ab8911": {
+    "routine_id": "d85a8e957d68497890cc292e41ab8911",
+    "title": "Test",
+    "video_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/videos/routines/d85a8e957d68497890cc292e41ab8911/video.mp4",
+    "audio_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/audio/routines/d85a8e957d68497890cc292e41ab8911/audio.mp3",
+    "created_at": "2025-11-24T06:04:24.213984Z"
+  },
+  "270aec972f1346a2b44c1c2ff43423a6": {
+    "routine_id": "270aec972f1346a2b44c1c2ff43423a6",
+    "title": "Allen is beautifyl",
+    "video_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/videos/routines/270aec972f1346a2b44c1c2ff43423a6/video.mp4",
+    "audio_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/audio/routines/270aec972f1346a2b44c1c2ff43423a6/audio.mp3",
+    "created_at": "2025-11-25T01:01:54.914977Z"
+  },
+  "337a8253eaa94f4d8943f3c01116d0f6": {
+    "routine_id": "337a8253eaa94f4d8943f3c01116d0f6",
+    "title": "asdfadsf",
+    "video_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/videos/routines/337a8253eaa94f4d8943f3c01116d0f6/video.mp4",
+    "audio_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/audio/routines/337a8253eaa94f4d8943f3c01116d0f6/audio.mp3",
+    "created_at": "2025-12-10T04:00:28.649284Z",
+    "processing": false,
+    "status": "completed"
+  },
+  "01e2d01c25414b0baef96afc99af8260": {
+    "routine_id": "01e2d01c25414b0baef96afc99af8260",
+    "title": "asdfad",
+    "video_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/videos/routines/01e2d01c25414b0baef96afc99af8260/video.mp4",
+    "audio_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/audio/routines/01e2d01c25414b0baef96afc99af8260/audio.mp3",
+    "created_at": "2025-12-10T04:05:41.699945Z",
+    "processing": false,
+    "status": "completed"
+  },
+  "f2432f94fba7438fa2f593d5727b996d": {
+    "routine_id": "f2432f94fba7438fa2f593d5727b996d",
+    "title": "asdfad",
+    "video_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/videos/routines/f2432f94fba7438fa2f593d5727b996d/video.mp4",
+    "audio_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/audio/routines/f2432f94fba7438fa2f593d5727b996d/audio.mp3",
+    "created_at": "2025-12-10T04:05:49.792189Z",
+    "processing": false,
+    "status": "completed"
+  },
+  "1ab149e1006f4bb3a156c5dbbaac21d7": {
+    "routine_id": "1ab149e1006f4bb3a156c5dbbaac21d7",
+    "title": "asdfad",
+    "video_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/videos/routines/1ab149e1006f4bb3a156c5dbbaac21d7/video.mp4",
+    "audio_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/audio/routines/1ab149e1006f4bb3a156c5dbbaac21d7/audio.mp3",
+    "created_at": "2025-12-10T04:05:50.832887Z",
+    "processing": false,
+    "status": "completed"
+  },
+  "fb750d066c064ad194632fb2a1364a00": {
+    "routine_id": "fb750d066c064ad194632fb2a1364a00",
+    "title": "Testing",
+    "video_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/videos/routines/fb750d066c064ad194632fb2a1364a00/video.mp4",
+    "audio_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/audio/routines/fb750d066c064ad194632fb2a1364a00/audio.mp3",
+    "created_at": "2025-12-10T04:15:48.155601Z",
+    "processing": false,
+    "status": "completed"
+  },
+  "0b4ae5db55994e57a8c7c8bb4c1105c8": {
+    "routine_id": "0b4ae5db55994e57a8c7c8bb4c1105c8",
+    "title": "testing locallly",
+    "video_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/videos/routines/0b4ae5db55994e57a8c7c8bb4c1105c8/video.mp4",
+    "audio_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/audio/routines/0b4ae5db55994e57a8c7c8bb4c1105c8/audio.mp3",
+    "created_at": "2025-12-10T04:26:38.290525Z",
+    "processing": false,
+    "status": "completed"
+  },
+  "a65c3917efb8422391a2bd862626c492": {
+    "routine_id": "a65c3917efb8422391a2bd862626c492",
+    "title": "asfdsdfdsfaasddfasdf",
+    "video_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/videos/routines/a65c3917efb8422391a2bd862626c492/video.mp4",
+    "audio_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/audio/routines/a65c3917efb8422391a2bd862626c492/audio.mp3",
+    "created_at": "2025-12-10T18:39:55.320975Z",
+    "processing": false,
+    "status": "completed"
+  },
+  "8ff2b50a5cbe49fdb874ef22767f8dec": {
+    "routine_id": "8ff2b50a5cbe49fdb874ef22767f8dec",
+    "title": "Routine",
+    "video_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/videos/routines/8ff2b50a5cbe49fdb874ef22767f8dec/video.mp4",
+    "audio_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/audio/routines/8ff2b50a5cbe49fdb874ef22767f8dec/audio.mp3"
+  },
+  "09fc8a639ea3495f88890366f0ecd23c": {
+    "routine_id": "09fc8a639ea3495f88890366f0ecd23c",
+    "title": "Shershaah Finale",
+    "video_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/videos/routines/09fc8a639ea3495f88890366f0ecd23c/video.mp4",
+    "audio_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/audio/routines/09fc8a639ea3495f88890366f0ecd23c/audio.mp3",
+    "created_at": "2025-12-10T22:28:43.725100Z",
+    "processing": false,
+    "status": "completed"
+  },
+  "a0389c9915c040c8b57e7ef540d2e44f": {
+    "routine_id": "a0389c9915c040c8b57e7ef540d2e44f",
+    "title": "asdf",
+    "video_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/videos/routines/a0389c9915c040c8b57e7ef540d2e44f/video.mp4",
+    "audio_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/audio/routines/a0389c9915c040c8b57e7ef540d2e44f/audio.mp3",
+    "created_at": "2025-12-14T02:30:33.736445Z",
+    "processing": false,
+    "status": "completed"
+  },
+  "1676a1672f304725bee78f868c4c9ef6": {
+    "routine_id": "1676a1672f304725bee78f868c4c9ef6",
+    "title": "ref",
+    "video_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/videos/routines/1676a1672f304725bee78f868c4c9ef6/video.mp4",
+    "audio_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/audio/routines/1676a1672f304725bee78f868c4c9ef6/audio.mp3",
+    "created_at": "2025-12-15T01:44:15.519583Z",
+    "processing": false,
+    "status": "completed"
+  },
+  "1c33a61341ca4e01bd0e09022c9c38f9": {
+    "routine_id": "1c33a61341ca4e01bd0e09022c9c38f9",
+    "title": "Routine",
+    "video_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/videos/routines/1c33a61341ca4e01bd0e09022c9c38f9/video.mp4",
+    "audio_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/audio/routines/1c33a61341ca4e01bd0e09022c9c38f9/audio.mp3"
+  },
+  "60b7121f224842628e2975e09e1f392d": {
+    "routine_id": "60b7121f224842628e2975e09e1f392d",
+    "title": "Routine",
+    "video_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/videos/routines/60b7121f224842628e2975e09e1f392d/video.mp4",
+    "audio_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/audio/routines/60b7121f224842628e2975e09e1f392d/audio.mp3"
+  },
+  "61a33ab685d54c3a97cfb76a46b90c4c": {
+    "routine_id": "61a33ab685d54c3a97cfb76a46b90c4c",
+    "title": "localhost routine testing",
+    "video_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/videos/routines/61a33ab685d54c3a97cfb76a46b90c4c/video.mp4",
+    "audio_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/audio/routines/61a33ab685d54c3a97cfb76a46b90c4c/audio.mp3",
+    "created_at": "2025-12-17T05:30:43.995601Z",
+    "processing": false,
+    "status": "completed"
+  },
+  "9abd235ad78a4166b70f35838d28158c": {
+    "routine_id": "9abd235ad78a4166b70f35838d28158c",
+    "title": "adsfads",
+    "video_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/videos/routines/9abd235ad78a4166b70f35838d28158c/video.mp4",
+    "audio_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/audio/routines/9abd235ad78a4166b70f35838d28158c/audio.mp3",
+    "created_at": "2025-12-17T05:33:19.896091Z",
+    "processing": false,
+    "status": "completed"
+  },
+  "a1a8e19c5a7c4f00bad8e0d49858814e": {
+    "routine_id": "a1a8e19c5a7c4f00bad8e0d49858814e",
+    "title": "sdgsdt",
+    "video_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/videos/routines/a1a8e19c5a7c4f00bad8e0d49858814e/video.mp4",
+    "audio_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/audio/routines/a1a8e19c5a7c4f00bad8e0d49858814e/audio.mp3",
+    "created_at": "2025-12-17T05:37:25.544247Z",
+    "processing": false,
+    "status": "completed"
+  },
+  "b95fd42b1cda45e1a6304386d2d49205": {
+    "routine_id": "b95fd42b1cda45e1a6304386d2d49205",
+    "title": "Routine",
+    "video_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/videos/routines/b95fd42b1cda45e1a6304386d2d49205/video.mp4",
+    "audio_supabase_url": "https://kgoxdiojhxefylulciui.supabase.co/storage/v1/object/public/audio/routines/b95fd42b1cda45e1a6304386d2d49205/audio.mp3"
+  }
+}

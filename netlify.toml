@@ -1,0 +1,16 @@
+[build]
+  base = "frontend"
+  command = "npm run build"
+  publish = "dist"  # since base=frontend, publish is relative to frontend
+
+[build.environment]
+  SECRETS_SCAN_OMIT_KEYS = "VITE_SUPABASE_ANON_KEY,VITE_SUPABASE_URL"
+
+# SPA redirect rules - serve index.html for all routes (except actual files)
+# This prevents 404 errors on page reload
+# The force=false means it only redirects if the file doesn't exist (allows static assets)
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+  force = false

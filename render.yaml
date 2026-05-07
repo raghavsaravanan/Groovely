@@ -1,0 +1,23 @@
+services:
+  - type: web
+    name: dance-backend
+    env: docker
+    dockerfilePath: ./backend/Dockerfile
+    dockerContext: ./backend
+    plan: free
+    buildCommand: ""
+    startCommand: uvicorn api.main:app --host 0.0.0.0 --port $PORT --timeout-keep-alive 75 --timeout-graceful-shutdown 10
+    healthCheckPath: /health
+    # Note: Free tier has 512MB RAM limit. For production with video processing,
+    # consider upgrading to Starter plan ($7/month) for 512MB-2GB RAM.
+    envVars:
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_SERVICE_ROLE_KEY
+        sync: false
+      # Python memory management
+      - key: PYTHONHASHSEED
+        value: "0"
+      - key: MALLOC_ARENA_MAX
+        value: "2"
+

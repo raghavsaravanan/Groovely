@@ -1,0 +1,113 @@
+{
+  "a81b8b9c61134fe8a09ad075a7c6eae6": {
+    "battle_id": "a81b8b9c61134fe8a09ad075a7c6eae6",
+    "title": "Dance Battle",
+    "description": "",
+    "theme": "open",
+    "routine_id": null,
+    "created_at": "2025-11-16T05:23:18.834648Z",
+    "entries": {
+      "b971aef759934d61828ebbe955314273": {
+        "user_id": null,
+        "video_path": "battles/a81b8b9c61134fe8a09ad075a7c6eae6/b971aef759934d61828ebbe955314273/entry.mp4",
+        "votes": 13
+      }
+    },
+    "votes": {
+      "291b4876bccd43ed8f9661a0b73ff8a0": {
+        "user_id": null,
+        "entry_id": "b971aef759934d61828ebbe955314273",
+        "created_at": "2025-11-16T05:23:31.055487Z"
+      },
+      "5c39b12104014d2cab1e8dedfbeff608": {
+        "user_id": null,
+        "entry_id": "b971aef759934d61828ebbe955314273",
+        "created_at": "2025-11-16T05:23:32.070582Z"
+      },
+      "c4d8f05f94f44eb2a890be3235405fc0": {
+        "user_id": null,
+        "entry_id": "b971aef759934d61828ebbe955314273",
+        "created_at": "2025-11-16T17:06:32.773594Z"
+      },
+      "f366159af0d54614905e31a7089ff79d": {
+        "user_id": null,
+        "entry_id": "b971aef759934d61828ebbe955314273",
+        "created_at": "2025-11-16T17:06:33.296928Z"
+      },
+      "10767c3898a040509d37ad70f3f14166": {
+        "user_id": null,
+        "entry_id": "b971aef759934d61828ebbe955314273",
+        "created_at": "2025-11-16T17:06:33.480195Z"
+      },
+      "98b8ad6aee2a4a9682e25ccbafb58340": {
+        "user_id": null,
+        "entry_id": "b971aef759934d61828ebbe955314273",
+        "created_at": "2025-11-16T17:06:33.540471Z"
+      },
+      "27711f04a88a4afc91f69a4487c61813": {
+        "user_id": null,
+        "entry_id": "b971aef759934d61828ebbe955314273",
+        "created_at": "2025-11-16T17:06:33.658305Z"
+      },
+      "083a3a2fc66e4197981992617302e1de": {
+        "user_id": null,
+        "entry_id": "b971aef759934d61828ebbe955314273",
+        "created_at": "2025-11-16T17:06:33.739267Z"
+      },
+      "f60e13b5f3a34dc2a3d4bc010a199702": {
+        "user_id": null,
+        "entry_id": "b971aef759934d61828ebbe955314273",
+        "created_at": "2025-11-16T17:06:33.841207Z"
+      },
+      "9265ac78e1d04acba055dcde099ae71b": {
+        "user_id": null,
+        "entry_id": "b971aef759934d61828ebbe955314273",
+        "created_at": "2025-11-16T17:06:33.922429Z"
+      },
+      "6280a3acc1de44fa97ff589467cfd8ee": {
+        "user_id": null,
+        "entry_id": "b971aef759934d61828ebbe955314273",
+        "created_at": "2025-11-16T17:06:34.024846Z"
+      },
+      "e443a9d3ed9b4a2e80ad96693cff7464": {
+        "user_id": null,
+        "entry_id": "b971aef759934d61828ebbe955314273",
+        "created_at": "2025-11-16T17:06:34.107936Z"
+      },
+      "c4e2d30195924179a8d618a0d2c20b4a": {
+        "user_id": null,
+        "entry_id": "b971aef759934d61828ebbe955314273",
+        "created_at": "2025-11-16T17:06:34.222670Z"
+      }
+    },
+    "status": "open"
+  },
+  "a1998778a1ec484eb898a6b01d921267": {
+    "battle_id": "a1998778a1ec484eb898a6b01d921267",
+    "title": "Dance Battle",
+    "description": "",
+    "theme": "open",
+    "routine_id": null,
+    "created_at": "2025-11-16T17:06:21.452358Z",
+    "entries": {
+      "1fcd88855c204f1488fc25a02ac17cd2": {
+        "user_id": null,
+        "video_path": "battles/a1998778a1ec484eb898a6b01d921267/1fcd88855c204f1488fc25a02ac17cd2/entry.mp4",
+        "votes": 0
+      }
+    },
+    "votes": {},
+    "status": "open"
+  },
+  "7fb67f345e8b4d218707c78eaa8d4442": {
+    "battle_id": "7fb67f345e8b4d218707c78eaa8d4442",
+    "title": "Dance Battle",
+    "description": "",
+    "theme": "open",
+    "routine_id": null,
+    "created_at": "2025-11-16T17:35:10.351317Z",
+    "entries": {},
+    "votes": {},
+    "status": "open"
+  }
+}
